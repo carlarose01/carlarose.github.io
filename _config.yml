@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Carla Rose"
 title_separator          : "-"
-name                     : &name "Carla ROse"
+name                     : &name "Carla Rose"
 description              : &description "Student at University of Wisconsin-Madison"
 url                      : https://carlarose01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
